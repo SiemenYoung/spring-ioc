@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cn.com.shiming</groupId>
-    <artifactId>spring-ioc</artifactId>
+    <artifactId>study-ioc</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 
