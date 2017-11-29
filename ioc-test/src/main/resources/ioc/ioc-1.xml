@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <beans>
+        <bean id = "student1" className="cn.com.shiming.bean.Student"/>
+        <bean id = "student2" className="cn.com.shiming.bean.Student"/>
+    </beans>
+</root>
